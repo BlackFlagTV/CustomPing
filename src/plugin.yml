@@ -1,0 +1,8 @@
+name: CustomPing
+version: 1.0
+author: PVPMaster
+
+main: de.pvpmaster.customping.Main
+
+commands:
+  ping:
